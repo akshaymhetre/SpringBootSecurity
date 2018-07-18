@@ -1,4 +1,4 @@
-package com.akshay.spring.learning.SpringSecurityBasics.polls.config;
+package com.akshay.spring.learning.springsecurity.polls.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.jpa.repository.config.EnableJpaAuditing;

@@ -1,4 +1,4 @@
-package com.akshay.spring.learning.SpringSecurityBasics.polls.model;
+package com.akshay.spring.learning.springsecurity.polls.model;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;

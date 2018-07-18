@@ -1,4 +1,4 @@
-package com.akshay.spring.learning.SpringSecurityBasics;
+package com.akshay.spring.learning.springsecurity;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -11,6 +11,7 @@ public class SpringSecurityBasicsApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		// Yet to implement
 	}
 
 }

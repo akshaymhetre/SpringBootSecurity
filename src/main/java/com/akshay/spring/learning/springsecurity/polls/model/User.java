@@ -1,6 +1,6 @@
-package com.akshay.spring.learning.SpringSecurityBasics.polls.model;
+package com.akshay.spring.learning.springsecurity.polls.model;
 
-import com.akshay.spring.learning.SpringSecurityBasics.polls.model.audit.DateAudit;
+import com.akshay.spring.learning.springsecurity.polls.model.audit.DateAudit;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;

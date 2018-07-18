@@ -1,6 +1,6 @@
-package com.akshay.spring.learning.SpringSecurityBasics.polls.respository;
+package com.akshay.spring.learning.springsecurity.polls.respository;
 
-import com.akshay.spring.learning.SpringSecurityBasics.polls.model.User;
+import com.akshay.spring.learning.springsecurity.polls.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

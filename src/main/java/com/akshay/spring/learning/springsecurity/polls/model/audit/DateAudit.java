@@ -1,4 +1,4 @@
-package com.akshay.spring.learning.SpringSecurityBasics.polls.model.audit;
+package com.akshay.spring.learning.springsecurity.polls.model.audit;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Getter;
